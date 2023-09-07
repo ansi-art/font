@@ -19,17 +19,17 @@
             "require": "./dist/index.cjs"
         }
     },
-    "homepage": "null",
-    "description": "null",
+    "homepage": "https://github.com/ansi-art/font",
+    "description": "Ascii Art fonts: UTF, Figlet",
     "keywords": [],
-    "author": "null <null>()",
+    "author": "Abbey Hawk Sparrow <khrome>(http://abbeyhawksparrow.com)",
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "null"
+        "url": "git@github.com:ansi-art/font.git"
     },
     "bugs": {
-        "url": "null"
+        "url": "https://github.com/ansi-art/font/issues"
     },
     "moka": {
         "firefox": {
